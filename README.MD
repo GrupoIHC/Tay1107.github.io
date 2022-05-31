@@ -1,6 +1,6 @@
-# Landing Page del Colegio
-## Curso de: IHC
-### Github Page
+# Landing Page de Young Worker
+## Curso: IHC y Tecnologias Móviles
+### Página de Github
 
-- Landing Page de la plataforma para escuelas Ulearn
-	- Para ver lading page: [Ver landing page](https://fabricciotc.github.io/tb4-final/)
+-Landing Page de la plataforma Young Worker, para universitarios y empresas.
+-Para ver lading page: (https://tay1107.github.io/)
