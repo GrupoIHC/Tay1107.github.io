@@ -1,0 +1,85 @@
+*, body{    
+    font-family: 'Poppins', sans-serif;
+}
+
+.head-nav{
+    padding:10px 40px !important;
+    background-color: #231F20 !important;
+}
+.display-4{
+    font-weight: 600 !important;
+    padding: 10px;
+}
+.display-3{
+    font-weight: 600 !important;
+    padding: 10px;
+    color: white;
+    font-size: 26px !important;
+}
+.card{
+    min-width: 250px !important;
+}
+.lead{
+    margin-top: 30px;
+}
+.circle{
+    border-radius: 50px !important;
+}
+.pricing h5{
+    font-weight: 700;
+    font-size: 24px;
+}
+.price div{
+    padding: 20px;
+}
+.price{
+    margin:30px;
+}
+.pricing div{
+    padding: 20px 0px;
+}
+
+.bg-portada{
+    background: url(imagenes/portada.jpg);
+    background-size: cover;
+}
+.foo{
+    padding: 50px;
+    background: #231F20;
+    margin-top: 40px;
+}
+a{
+    cursor: pointer;
+}
+.btns{
+    align-self: center;
+    text-align: center;
+}
+.btns a{
+ display: block;
+ margin: 15px;
+}
+.card div{
+    flex-wrap: inherit;
+}
+.circulo{
+    background-color: blue;
+    border:2px solid black;
+    height: 20px;
+    width: 20px;
+    margin: auto;
+    border-radius: 100%;
+}
+.display-4 span{
+    color: #28a745
+}
+.black-filter{
+    padding: 6rem 3rem;
+    background:linear-gradient(118deg, rgba(0,0,0,0.9555419579941351) 5%, rgba(0,0,0,0.9555419579941351) 11%, rgba(0,0,0,0.5409761316636029) 49%);
+}
+.black-filter h1{
+    color: white;
+}
+.black-filter p{
+    color:white;
+}
