@@ -1,85 +1,104 @@
-*, body{    
+*, body {
     font-family: 'Poppins', sans-serif;
 }
 
-.head-nav{
-    padding:10px 40px !important;
+.head-nav {
+    padding: 10px 40px !important;
     background-color: #231F20 !important;
 }
-.display-4{
+
+.display-4 {
     font-weight: 600 !important;
     padding: 10px;
 }
-.display-3{
+
+.display-3 {
     font-weight: 600 !important;
     padding: 10px;
     color: white;
     font-size: 26px !important;
 }
-.card{
+
+.card {
     min-width: 250px !important;
 }
-.lead{
+
+.lead {
     margin-top: 30px;
 }
-.circle{
+
+.circle {
     border-radius: 50px !important;
 }
-.pricing h5{
+
+.pricing h5 {
     font-weight: 700;
     font-size: 24px;
 }
-.price div{
+
+.price div {
     padding: 20px;
 }
-.price{
-    margin:30px;
-}
-.pricing div{
-    padding: 20px 0px;
+
+.price {
+    margin: 30px;
 }
 
-.bg-portada{
-    background: url(imagenes/portada.jpg);
+.pricing div {
+    padding: 20px 0;
+}
+
+.bg-portada {
+    background: url(../images/portada.jpg);
     background-size: cover;
 }
-.foo{
+
+.foo {
     padding: 50px;
     background: #231F20;
     margin-top: 40px;
 }
-a{
+
+a {
     cursor: pointer;
 }
-.btns{
+
+.btns {
     align-self: center;
     text-align: center;
 }
-.btns a{
- display: block;
- margin: 15px;
+
+.btns a {
+    display: block;
+    margin: 15px;
 }
-.card div{
+
+.card div {
     flex-wrap: inherit;
 }
-.circulo{
+
+.circulo {
     background-color: #005DFF;
-    border:2px solid black;
+    border: 2px solid black;
     height: 20px;
     width: 20px;
     margin: auto;
     border-radius: 100%;
 }
-.display-4 span{
+
+.display-4 span {
     color: #005DFF
 }
-.black-filter{
+
+.black-filter {
     padding: 6rem 3rem;
-    background:linear-gradient(118deg, rgba(0,0,0,0.9555419579941351) 5%, rgba(0,0,0,0.9555419579941351) 11%, rgba(0,0,0,0.5409761316636029) 49%);
+    background: linear-gradient(118deg, rgba(0, 0, 0, 0.9555419579941351) 5%, rgba(0, 0, 0, 0.9555419579941351) 11%, rgba(0, 0, 0, 0.5409761316636029) 49%);
 }
-.black-filter h1{
+
+.black-filter h1 {
     color: white;
 }
-.black-filter p{
-    color:white;
+
+.black-filter p {
+    color: white;
 }
