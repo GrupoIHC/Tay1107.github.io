@@ -1,4 +1,4 @@
-# Landing Page de Young Worker Primera Edicion
+# Landing Page de Young Worker 
 ## Curso: IHC y Tecnologias Móviles
 ### Página de Github
 
