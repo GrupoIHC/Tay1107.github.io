@@ -3,4 +3,4 @@
 ### Página de Github
 
 -Landing Page de la plataforma Young Worker, para universitarios y empresas.
--Para ver lading page: ([https://tay1107.github.io/](https://grupoihc.github.io/YoungWorker.github.io/))
+-Para ver lading page: (https://grupoihc.github.io/YoungWorker.github.io/)
