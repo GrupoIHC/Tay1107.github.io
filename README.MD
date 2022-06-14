@@ -6,8 +6,8 @@
 
 -Landing Page de la plataforma Young Worker, para universitarios y empresas.
 
-Informacion:
-YounWorker es una plataforma con el objetivo de reunir a empleadores y estudiantes los cuales puedan llegar a un acuerdo para que asi los estudiantes puedan realizar sus practicas preprofesionales.
+Información:
+YoungWorker es una plataforma con el objetivo de reunir a empleadores y estudiantes los cuales puedan llegar a un acuerdo para que asi los estudiantes puedan realizar sus practicas preprofesionales.
 
 Autores:
 -Ccapa Mamani Diego German U201823028
@@ -20,8 +20,12 @@ Segmentos Objetivos:
 -Estudiantes universitarios
 -Empleados de recursos Humanos de las Empresas
 
-Caracteristicas.
--La creacion de un perfil
--Realizamos conexiones entre empleadores y estudiantes que busquen realizar practicas preprofesionales
+Características.
+-La creación de un perfil
+-Realizamos conexiones entre empleadores y estudiantes que busquen realizar prácticas pre profesionales
 -Brinda un chat para realizar las conversaciones con las empresas
--Opcion de publicar en tu perfil y asi dar a conocer mas sobre tu persona
+-Opción de publicar en tu perfil y asi dar a conocer más sobre tu persona
+
+Landing Page:
+https://grupoihc.github.io/YoungWorker.github.io/
+
